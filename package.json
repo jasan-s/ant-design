@@ -1,32 +1,22 @@
 {
-  "name": "antd",
-  "version": "3.23.1",
-  "title": "Ant Design",
-  "description": "An enterprise-class UI design language and React components implementation",
-  "homepage": "http://ant.design/",
-  "keywords": [
-    "ant",
-    "design",
-    "react",
-    "react-component",
-    "component",
-    "components",
-    "ui",
-    "framework",
-    "frontend"
-  ],
+  "name": "codefree_ant",
+  "version": "0.0.2",
+  "title": "codefree_ant",
+  "description": "",
+  "homepage": "https://github.com/jasan-s/ant-design",
+  "keywords": [],
   "contributors": [
-    "ant"
+    ""
   ],
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ant-design/ant-design"
+    "url": "https://github.com/jasan-s/ant-design"
   },
   "bugs": {
-    "url": "https://github.com/ant-design/ant-design/issues"
+    "url": "https://github.com/jasan-s/ant-design/issues"
   },
   "main": "lib/index.js",
   "module": "es/index.js",
